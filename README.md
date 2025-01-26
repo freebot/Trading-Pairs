@@ -1,4 +1,3 @@
-Certainly! Below is a **README.md** file for your GitHub repository (`Trading-Pairs`). It includes all the necessary instructions for setting up the project, creating the SQLite database, injecting data, and running the trading pairs strategy.
 
 ---
 
